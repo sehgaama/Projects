@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--
-Rajkaran Dhami
-Student ID: 991542986
-SYST10199 - Web Programming
--->
+
 <html>
     <head>
         <meta charset="UTF-8">
