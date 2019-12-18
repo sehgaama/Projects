@@ -1,0 +1,17 @@
+/*
+Rajkaran Dhami
+Student ID: 991542986
+SYST10199 - Web Programming
+*/
+/* 
+    Created on : Jul 14, 2019, 4:02:28 PM
+    Author     : iamra
+*/
+
+ body{background-color:antiquewhite; }
+  fieldset{ background-color:white;  width:80%;  border: 2px solid; }
+  h1{text-align:center; color:lightsalmon;  font-size:30pt;}
+  h2{text-align:center; color:red;  font-size:30pt;}
+  h3{ left:100px; color:chocolate;  font-size:20pt; }
+  h4{color:red; text-align:center;  font-style:italic; font-size:25pt; }
+  p{ left:100px; color:dimgrey; }

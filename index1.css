@@ -1,0 +1,21 @@
+/*
+Rajkaran Dhami
+Student ID: 991542986
+SYST10199 - Web Programming
+*/
+/* 
+    Created on : Jul 14, 2019, 5:07:39 PM
+    Author     : iamra
+*/
+
+img{height:250px; width:1500px;}
+body{background-color:bisque; }
+  fieldset{position:relative; left:100px; background-color:lightcyan;  width:80%;  border: 2px solid; }
+  h1{text-align:center;  font-style:italic; color:red;  font-size:40pt;}
+  h2{text-align:center; color:red;  font-size:30pt;}
+  h3{text-align:center;  color:mediumvioletred;  font-size:20pt; }
+  input[name=number]{position:relative; left:58px;}
+  select[name=size]{position:relative; left:100px;}
+  input[name=sugar]{position:relative; left:8px;}
+  input[type=submit]{background-color:brown; border: none; color: white; padding: 8px 8px; margin: 4px 2px;} 
+  
